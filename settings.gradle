@@ -1,0 +1,2 @@
+rootProject.name='CleverTapTAM2'
+include ':app'
